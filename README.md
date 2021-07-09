@@ -15,6 +15,6 @@ I am Ritik Kumar. My main interest lies in Machine Learning and Data Science. I 
 - 📫 ***How to reach me***: Contact me directly on this mail [hrithik21sgh@gmail.com](mailto:hrithik21sgh@gmail.com).
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikkumar55&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=ritikkumar55&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p> -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritikkumar55)
